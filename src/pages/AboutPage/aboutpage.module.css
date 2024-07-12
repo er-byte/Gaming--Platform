@@ -1,0 +1,169 @@
+.aboutSimplay {
+    display: flex;
+    padding: 150px 180px;
+    background: black;
+}
+
+.simplayInfo h2 {
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.simplayInfo p {
+    color: white;
+    font-size: 15px;
+    padding-top: 30px;
+    font-weight: 400;
+}
+
+.simplayInfo button {
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 50px;
+    padding: 10px 30px;
+    border-radius: 50px;
+    background: #FA9021;
+}
+
+.aboutWork {
+    background: black;
+}
+
+.workInfo h2 {
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 0px 180px;
+}
+
+.workRight {
+    height: 50vh;
+    padding-top: 150px;
+}
+
+.workRighth3 {
+    display: flex;
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    justify-content: space-around;
+}
+
+.workRighth2 {
+    display: flex;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 40px;
+    justify-content: space-around;
+}
+
+.workRightp {
+    display: flex;
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 40px;
+    justify-content: space-around;
+}
+
+.aboutPrinting {
+    background: #130e0a;
+}
+
+.printingImg {
+    padding: 100px 100px 0px;
+}
+
+.printingInfo {
+    position: relative;
+}
+
+.printingInfo h4 {
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.printingInfo h2 {
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 20px;
+}
+
+.printingInfo p {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+
+.aboutTeam {
+    background: black;
+}
+
+.teamInfo {
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 100px 120px;
+}
+
+.teamImg {
+    display: flex;
+    justify-content: space-around;
+}
+
+.teamName {
+    display: flex;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    justify-content: space-around;
+}
+
+.teamCOO {
+    display: flex;
+    color: white;
+    font-size: 15px;
+    font-weight: 300;
+    justify-content: space-around;
+}
+
+.addres {
+    background: black;
+    padding: 150px 140px 0px;
+}
+
+.addresInfo h1 {
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.addresInfo p {
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+
+.addresRight {
+    padding: 70px 100px;
+}
+
+.addresRight h1 {
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.addresRight p {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 20px;
+}

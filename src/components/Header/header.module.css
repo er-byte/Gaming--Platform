@@ -1,0 +1,25 @@
+.headerTop {
+    z-index: 2;
+    position: relative;
+    background: #000000;
+    padding: 20px 0px 50px;
+}
+
+.headerRight {
+    color: #fff;
+    font-weight: 800;
+    padding: 45px 150px 0;
+}
+
+.nav ul {
+    display: flex;
+    column-gap: 70px;
+    justify-content: end;
+}
+
+.ul a {
+    color: #FA9021;
+    font-size: 16px;
+    column-gap: 80px;
+    font-weight: 400;
+}

@@ -1,0 +1,236 @@
+.headerDev {
+    display: flex;
+    padding: 40px 180px;
+    background: #000000;
+    justify-content: space-between;
+}
+
+.headerInfo {
+    color: #fff;
+}
+
+.h1 {
+    font-size: 50px;
+    font-weight: 700;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.buttonDev {
+    color: #fff;
+    font-size: 13px;
+    font-weight: 400;
+    margin-top: 50px;
+    padding: 12px 30px;
+    border-radius: 30px;
+    background: #FA9021;
+}
+
+.imgDev {
+    top: -100px;
+    position: relative;
+}
+
+.headerSell {
+    background: #000000;
+}
+
+.sellInfo {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 100px 180px;
+}
+
+.headerSell Button {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+
+.sellButton {
+    display: flex;
+    justify-content: end;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    column-gap: 80px;
+}
+
+.followImg {
+    gap: 105px;
+    color: #fff;
+    display: flex;
+    padding-top: 20px;
+    justify-content: center;
+}
+
+.mainTop {
+    background: rgb(0, 0, 0);
+}
+
+.mainRight {
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 200px;
+    text-align: center;
+}
+
+.mainInfo {
+    color: white;
+    padding: 100px 200px;
+}
+
+.mainInfo h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.mainInfo p {
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 30px;
+}
+
+.mainImg {
+    display: flex;
+    justify-content: center;
+}
+
+
+.mainIndustry {
+    background: black;
+}
+
+.industryInfo {
+    padding-top: 200px;
+}
+
+.industryInfo h1 {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.industryInfo p {
+    color: white;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.game {
+    display: flex;
+    column-gap: 230px;
+    padding-top: 100px;
+    justify-content: center;
+}
+
+.game img {
+    border-radius: 20px;
+    border: 10px solid white;
+}
+
+.gameInfo {
+    display: flex;
+    color: white;
+    font-size: 15px;
+    column-gap: 90px;
+    font-weight: 500;
+    padding-top: 50px;
+    justify-content: center;
+}
+
+.arrowImg {
+    display: flex;
+    column-gap: 260px;
+    padding-top: 40px;
+    justify-content: center;
+}
+
+.project {
+    background: black;
+}
+
+.projectInfo h1 {
+    display: flex;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 200px;
+    justify-content: center;
+}
+
+.projectInfo p {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.projectImg {
+    display: flex;
+    column-gap: 50px;
+    padding-top: 100px;
+    justify-content: center;
+}
+
+.projectImg2 {
+    display: flex;
+    column-gap: 60px;
+    padding-top: 30px;
+    justify-content: center;
+}
+
+.projectButton {
+    display: flex;
+    justify-content: center;
+}
+
+.projectButton button {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 50px;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+.addres {
+    background: rgb(0, 0, 0);
+    padding: 100px 200px 0px;
+}
+
+.addresInfo h1 {
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.addresInfo p {
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+
+.addresRight {
+    padding: 70px 100px;
+}
+
+.addresRight h1 {
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.addresRight p {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 20px;
+}

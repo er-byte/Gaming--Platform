@@ -1,0 +1,28 @@
+.footer{
+    background: black;
+}
+
+.footerInfo{
+    padding: 90px 150px 0px;
+}
+
+.footerInfo h3{
+color: white;
+font-size: 25px;
+font-weight: 800;
+}
+
+.footerInfo p{
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 10px;
+}
+
+.footerInfo h4{
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 15px;
+}
+

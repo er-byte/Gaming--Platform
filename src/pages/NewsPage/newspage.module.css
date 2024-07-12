@@ -1,0 +1,100 @@
+.newsDummy {
+    background: black;
+}
+
+.dummyInfo h1 {
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 150px;
+    text-align: center;
+}
+
+.dummyInfo p {
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.newsRight {
+    background: black;
+    padding: 200px 150px;
+}
+
+.newsRight button {
+    color: white;
+    font-size: 15px;
+    margin-top: 15px;
+    font-weight: 400;
+    padding: 10px 35px;
+    background: #2351F5;
+}
+
+.rightInfo h2 {
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 20px;
+}
+
+.rightInfo p {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 35px;
+}
+
+.rightImg2 {
+    padding-top: 150px;
+}
+
+.rightInfo2 h2 {
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 20px;
+}
+
+.rightInfo2 p {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 35px;
+}
+
+.addres {
+    background: black;
+    padding: 0px 150px;
+}
+
+.addresInfo h1 {
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.addresInfo p {
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+
+.addresRight {
+    padding: 70px 100px;
+}
+
+.addresRight h1 {
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.addresRight p {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 20px;
+}

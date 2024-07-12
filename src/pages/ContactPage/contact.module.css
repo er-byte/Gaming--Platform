@@ -1,0 +1,86 @@
+.contact{
+    background: black;
+}
+
+.contactInfo h2{
+    color: white;
+    font-size: 35px;
+    font-weight: 600;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.contactInfo p{
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.contactImg{
+    display: flex;
+    padding-top: 70px;
+    justify-content: center;
+}
+
+.contactRight{
+    display: flex;
+    padding: 70px 200px 0px ;
+    justify-content: center;
+}
+
+.contactRegister{
+    background: #1C140F;
+}
+
+.registerInfo h3{
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+    padding-top: 70px;
+    text-align: center;
+}
+
+.registerInfo p{
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.addres {
+    background: black;
+    padding: 140px 140px 0px;
+}
+
+.addresInfo h1 {
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.addresInfo p {
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+
+.addresRight {
+    padding: 70px 100px;
+}
+
+.addresRight h1 {
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.addresRight p {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 20px;
+}

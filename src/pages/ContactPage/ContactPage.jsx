@@ -47,6 +47,18 @@ const ContactPage = () => {
                         We promise not to spam you! </p>
                 </div>
             </div>
+            <div className={styles.addres}>
+                <div className={styles.addresInfo}>
+                    <h1>Lorem Ipsum</h1>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting <br />
+                        industry. </p>
+                </div>
+                <div className={styles.addresRight}>
+                    <h1>Stay in the loop</h1>
+                    <p>Subscribe to receive the latest news and updates about TDA. <br />
+                        We promise not to spam you! </p>
+                </div>
+            </div>
         </div>
     )
 }

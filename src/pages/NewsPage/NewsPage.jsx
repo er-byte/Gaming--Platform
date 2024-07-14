@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './newspage.module.css'
-import SearchIcon from '@mui/icons-material/Search';
+import { Search } from '@material-ui/icons'
 
 const NewsPage = () => {
     return (
@@ -11,7 +11,8 @@ const NewsPage = () => {
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
                 </div>
                 <div className={styles.dummyPoisk}>
-                <SearchIcon/>
+                <Search /> 
+                <input placeholder='Search...' />
                 </div>
             </div>
             <div className={styles.newsRight}>

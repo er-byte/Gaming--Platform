@@ -73,12 +73,12 @@
     background: #130e0a;
 }
 
-.printingImg {
+.printingImg  {
     padding: 100px 100px 0px;
 }
 
 .printingInfo {
-    position: relative;
+position: relative;
 }
 
 .printingInfo h4 {
@@ -95,6 +95,7 @@
 }
 
 .printingInfo p {
+    top: -300;
     color: white;
     font-size: 15px;
     font-weight: 400;

@@ -18,6 +18,24 @@
     text-align: center;
 }
 
+.dummyPoisk{
+    display: flex;
+    color: white;
+    font-size: 30px;
+    padding-top: 50px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.dummyPoisk input{
+    border: none;
+    font-size: 1.0rem;
+    padding-left: 10px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
 .newsRight {
     background: black;
     padding: 200px 150px;

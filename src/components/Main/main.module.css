@@ -130,11 +130,6 @@
     justify-content: center;
 }
 
-.game img {
-    border-radius: 20px;
-    border: 10px solid white;
-}
-
 .gameInfo {
     display: flex;
     color: white;

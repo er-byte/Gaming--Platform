@@ -1,28 +1,42 @@
-.footer{
-    background: black;
+.footer {
+    background: rgb(0, 0, 0);
 }
 
-.footerInfo{
-    padding: 90px 150px 0px;
+.footerInfo {
+    display: flex;
+    column-gap: 160px;
+    padding-top: 150px;
+    padding-left: 200px;
+    padding-bottom: 50px;
 }
 
-.footerInfo h3{
-color: white;
-font-size: 25px;
-font-weight: 800;
-}
-
-.footerInfo p{
+.footerInfo1 h3 {
     color: white;
-    font-size: 15px;
-    font-weight: 400;
-    padding-top: 10px;
+    font-size: 25px;
+    font-weight: 800;
 }
 
-.footerInfo h4{
+.footerInfo1 p {
     color: white;
     font-size: 15px;
     font-weight: 400;
     padding-top: 15px;
 }
 
+.footerInfo1 h4 {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+
+.footerInfo2 h4{
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 10px;
+}
+
+.footerInfo3 h4{
+    font-size: 17px;
+    font-weight: 400;
+}

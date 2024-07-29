@@ -24,7 +24,7 @@ const Main = () => {
                     <div className={styles.sellInfo}>
                         <h1>Currently Trending Games</h1>
                         <div className={styles.sellButton}>
-                            <button>SEE ALL</button>
+                            <button style={{ background: "#FA9021", color: "white" }}>See All</button>
                         </div>
                     </div>
                     <div className={styles.img}>
@@ -87,6 +87,18 @@ const Main = () => {
                         <img src="./images/arrow 1.png" alt="" />
                         <img src="./images/arrow 1.png" alt="" />
                     </div>
+                    <div className={styles.game2}>
+                        <img src="./images/Page 1.png" alt="" />
+                        <img src="./images/3d-cube 1.png" alt="" />
+                    </div>
+                    <div className={styles.gameInfo2}>
+                        <h4>AR/ VR design</h4>
+                        <h4>3D Modelings</h4>
+                    </div>
+                    <div className={styles.arrowImg2}>
+                        <img src="./images/arrow 1.png" alt="" />
+                        <img src="./images/arrow 1.png" alt="" />
+                    </div>
                 </div>
             </div>
             <div className="container">
@@ -107,21 +119,7 @@ const Main = () => {
                         <img src="./images/Rectangle 20.png" alt="" />
                     </div>
                     <div className={styles.projectButton}>
-                        <button>SEE ALL</button>
-                    </div>
-                </div>
-            </div>
-            <div className="container">
-                <div className={styles.addres}>
-                    <div className={styles.addresInfo}>
-                        <h1>Lorem Ipsum</h1>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting <br />
-                            industry. </p>
-                    </div>
-                    <div className={styles.addresRight}>
-                        <h1>Stay in the loop</h1>
-                        <p>Subscribe to receive the latest news and updates about TDA. <br />
-                            We promise not to spam you! </p>
+                        <button style={{ background: "#FA9021", color: "white" }}>See All</button>
                     </div>
                 </div>
             </div>

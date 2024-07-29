@@ -147,6 +147,28 @@
     justify-content: center;
 }
 
+.game2{
+    display: flex;
+    column-gap: 280px;
+    padding-top: 130px;
+    justify-content: center;
+}
+
+.gameInfo2{
+    display: flex;
+    color: white;
+    column-gap: 200px;
+    padding-top: 40px;
+    justify-content: center;
+}
+
+.arrowImg2{
+    display: flex;
+    column-gap: 290px;
+    padding-top: 30px;
+    justify-content: center;
+}
+
 .project {
     background: black;
 }
@@ -193,39 +215,4 @@
     margin-top: 50px;
     padding: 10px 15px;
     border-radius: 10px;
-}
-
-.addres {
-    background: rgb(0, 0, 0);
-    padding: 100px 200px 0px;
-}
-
-.addresInfo h1 {
-    color: white;
-    font-size: 30px;
-    font-weight: 600;
-}
-
-.addresInfo p {
-    color: white;
-    font-size: 16px;
-    font-weight: 400;
-    padding-top: 20px;
-}
-
-.addresRight {
-    padding: 70px 100px;
-}
-
-.addresRight h1 {
-    color: white;
-    font-size: 30px;
-    font-weight: 500;
-}
-
-.addresRight p {
-    color: white;
-    font-size: 15px;
-    font-weight: 400;
-    padding-top: 20px;
 }

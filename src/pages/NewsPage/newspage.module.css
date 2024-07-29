@@ -18,7 +18,7 @@
     text-align: center;
 }
 
-.dummyPoisk{
+.dummyPoisk {
     display: flex;
     color: white;
     font-size: 30px;
@@ -28,7 +28,7 @@
 
 }
 
-.dummyPoisk input{
+.dummyPoisk input {
     border: none;
     font-size: 1.0rem;
     padding-left: 10px;
@@ -38,7 +38,7 @@
 
 .newsRight {
     background: black;
-    padding: 200px 150px;
+    padding: 150px 150px 0px;
 }
 
 .newsRight button {
@@ -64,8 +64,23 @@
     padding-top: 35px;
 }
 
+.newsRight2 {
+    text-align: end;
+    background: black;
+    padding: 80px 150px 0px;
+}
+
 .rightImg2 {
-    padding-top: 150px;
+    padding-top: 100px;
+}
+
+.newsRight2 button {
+    color: white;
+    font-size: 15px;
+    margin-top: 15px;
+    font-weight: 400;
+    padding: 10px 35px;
+    background: #2351F5;
 }
 
 .rightInfo2 h2 {
@@ -82,37 +97,96 @@
     padding-top: 35px;
 }
 
-.addres {
+.poiskRight {
     background: black;
-    padding: 0px 150px;
 }
 
-.addresInfo h1 {
+.rightImg3 {
+    display: flex;
+    column-gap: 300px;
+    padding-top: 150px;
+    justify-content: space-around;
+}
+
+.poiskButton {
+    display: flex;
+    margin-top: 20px;
+    column-gap: 300px;
+    justify-content: space-around;
+}
+
+.poiskButton button {
     color: white;
-    font-size: 30px;
+    font-size: 15px;
+    margin-top: 15px;
+    font-weight: 400;
+    padding: 10px 35px;
+}
+
+.poiskInfo {
+    display: flex;
+    column-gap: 280px;
+    padding-top: 10px;
+    justify-content: space-around;
+}
+
+.poiskInfo h3 {
+    color: white;
+    font-size: 20px;
     font-weight: 600;
 }
 
-.addresInfo p {
+.rightImg4 {
+    display: flex;
+    column-gap: 300px;
+    padding-top: 50px;
+    justify-content: space-around;
+}
+
+.poiskButton2 {
+    display: flex;
+    margin-top: 20px;
+    column-gap: 300px;
+    justify-content: space-around;
+}
+
+.poiskButton2 button {
     color: white;
-    font-size: 16px;
+    font-size: 15px;
+    margin-top: 15px;
     font-weight: 400;
-    padding-top: 20px;
+    padding: 10px 35px;
 }
 
-.addresRight {
-    padding: 70px 100px;
+.newsVideo {
+    background: black;
 }
 
-.addresRight h1 {
+.videoInfo h2 {
+    text-align: center;
     color: white;
     font-size: 30px;
-    font-weight: 500;
+    font-weight: 700;
+    padding-top: 150px;
 }
 
-.addresRight p {
+.videoInfo p {
+    text-align: center;
     color: white;
     font-size: 15px;
     font-weight: 400;
     padding-top: 20px;
+}
+
+.imgVideo {
+    display: flex;
+    padding-top: 50px;
+    column-gap: 50px;
+    justify-content: center;
+}
+
+.videoImg1 {
+    display: flex;
+    padding-top: 50px;
+    justify-content: center;
 }

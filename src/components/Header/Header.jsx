@@ -6,10 +6,10 @@ const Header = () => {
     return (
         <>
             <header className={styles.header}>
-                <div className={styles.headerTop}>
-                    <div className="container">
+                <div className="container">
+                    <div className={styles.headerTop}>
                         <div className={styles.headerRight}>
-                            <h1>LOGO</h1>
+                            <h2>LOGO</h2>
                             <nav className={styles.nav}>
                                 <ul className={styles.ul}>
                                     <li>
@@ -20,11 +20,10 @@ const Header = () => {
                                     </li>
                                     <li>
                                         <Link to='/news'>News</Link>
-                                    </li>                      
+                                    </li>
                                     <li>
                                         <Link to='/contact us'>Contact us</Link>
-                                    </li>    
-                                       
+                                    </li>
                                 </ul>
                             </nav>
                         </div>

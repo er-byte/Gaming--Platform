@@ -6,19 +6,19 @@ const AboutPage = () => {
         <div className='container'>
             <div className={styles.aboutSimplay}>
                 <div className={styles.simplayInfo}>
-                    <h2>Lorem Ipsum is simply <br /> dummy text of the printing <br /> and.</h2>
+                    <h1>Lorem Ipsum is simply <br /> dummy text of the printing <br /> and.</h1>
                     <p>Lorem Ipsum is simply dummy text of the printing and <br />
                         typesetting industry. Lorem Ipsum has been the <br />
                         industry's standard dummy text ever since the 1500s.</p>
                     <button>Get in touch</button>
-                </div>
-                <div className={styles.simplayImg}>
+            </div>
+            <div className={styles.simplayImg}>
                     <img src="./images/Rectangle 6.png" alt="" />
-                </div>
+            </div>
             </div>
             <div className={styles.aboutWork}>
                 <div className={styles.workInfo}>
-                    <h2>Why work with us</h2>
+                    <h1>Why work with us</h1>
                 </div>
                 <div className={styles.workRight}>
                     <div className={styles.workRighth3}>
@@ -61,6 +61,9 @@ const AboutPage = () => {
                         text ever since the 1500s, when an unknown printer took a galley of <br />
                         type and scrambled it to make a type specimen book. It has <br />
                         survived not only five centuries,</p>
+                        <div className={styles.printingButton}>
+                            <button style={{background:"#FA9021", color: "white"}}>See All</button>
+                        </div>
                 </div>
             </div>
             <div className={styles.aboutTeam}>
@@ -84,18 +87,6 @@ const AboutPage = () => {
                     <h3>COO</h3>
                     <h3>COO</h3>
                     <h3>COO</h3>
-                </div>
-            </div>
-            <div className={styles.addres}>
-                <div className={styles.addresInfo}>
-                    <h1>Lorem Ipsum</h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting <br />
-                        industry. </p>
-                </div>
-                <div className={styles.addresRight}>
-                    <h1>Stay in the loop</h1>
-                    <p>Subscribe to receive the latest news and updates about TDA. <br />
-                        We promise not to spam you! </p>
                 </div>
             </div>
         </div>

@@ -1,8 +1,8 @@
-.contact{
+.contact {
     background: black;
 }
 
-.contactInfo h2{
+.contactInfo h2 {
     color: white;
     font-size: 35px;
     font-weight: 600;
@@ -10,7 +10,7 @@
     text-align: center;
 }
 
-.contactInfo p{
+.contactInfo p {
     color: white;
     font-size: 15px;
     font-weight: 500;
@@ -18,23 +18,23 @@
     text-align: center;
 }
 
-.contactImg{
+.contactImg {
     display: flex;
     padding-top: 70px;
     justify-content: center;
 }
 
-.contactRight{
+.contactRight {
     display: flex;
-    padding: 70px 200px 0px ;
     justify-content: center;
+    padding: 50px 0px 50px;
 }
 
-.contactRegister{
-    background: #1C140F;
+.contactRegister {
+    background: #000000;
 }
 
-.registerInfo h3{
+.registerInfo h3 {
     color: white;
     font-size: 30px;
     font-weight: 400;
@@ -42,7 +42,7 @@
     text-align: center;
 }
 
-.registerInfo p{
+.registerInfo p {
     color: white;
     font-size: 15px;
     font-weight: 500;
@@ -50,37 +50,12 @@
     text-align: center;
 }
 
-.addres {
-    background: black;
-    padding: 140px 140px 0px;
-}
-
-.addresInfo h1 {
-    color: white;
-    font-size: 30px;
-    font-weight: 600;
-}
-
-.addresInfo p {
-    color: white;
-    font-size: 16px;
-    font-weight: 400;
-    padding-top: 20px;
-}
-
-.addresRight {
-    padding: 70px 100px;
-}
-
-.addresRight h1 {
-    color: white;
-    font-size: 30px;
-    font-weight: 500;
-}
-
-.addresRight p {
-    color: white;
-    font-size: 15px;
-    font-weight: 400;
-    padding-top: 20px;
+.contactRegister form {
+    gap: 20px;
+    display: flex;
+    column-gap: 50px;
+    margin-top: 100px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
 }
